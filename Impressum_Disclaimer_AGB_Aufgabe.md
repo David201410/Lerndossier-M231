@@ -1,3 +1,6 @@
 # Willkommen zu meiner Lösung zur Aufgabe Impressum, Disclaimer, AGB.
-## Inhalt:
-- Aufgabe 1: Impressum in mehreren Sprachen
+
+
+## Aufgabe 1: Impressum in mehrere Sprachen übersetzen.
+- Deutsch (Synonym) : Erscheinungsvermerk
+- Englisch : 
