@@ -11,7 +11,7 @@
 ## Aufgabe 2: Was bedeutet ein "Impressum"?
 Ein Impressum ist eine Seite auf einer Website, die wichtige Informationen wie den Namen des Betreibers, die Kontaktadresse, die Firmenregisternummer und andere rechtliche Angaben enthält. Gesetze schreiben es vor, um die Verantwortlichen der Site transparent zu machen und eine Kontaktmöglichkeit für Nutzer bereitzustellen.
 
-## Aufgabe 3: Wann besteht in der Schweiz Impressum-Pflicht? Und wann nicht?  
+## Aufgabe 3: Wann besteht in der Schweiz eine Impressum-Pflicht? Und wann nicht?  
 
 **Zweck des Impressums:**  
 Es identifiziert den Betreiber einer Website und zeigt, wer für den Inhalt verantwortlich ist. Dies stärkt das Vertrauen im elektronischen Geschäftsverkehr.  
@@ -37,7 +37,7 @@ Websites von Vereinen: Auch gemeinnützige Vereine müssen ein Impressum haben, 
 Das Impressum muss leicht auffindbar sein, idealerweise im Menü oder in der Fußzeile der Website.
 Es muss nicht unbedingt „Impressum“ heißen, sondern kann auch unter „Kontakt“ zu finden sein.
 
-## Aufgabe 4: Wann besteht in Deutschland (oder in der EU) Impressum-Pflicht? Und wann nicht? Gibt es Unterschiede zur Schweiz?
+## Aufgabe 4: Wann besteht in Deutschland (oder in der EU) eine Impressum-Pflicht? Und wann nicht? Gibt es Unterschiede zur Schweiz?
 In Deutschland und der EU ist ein Impressum für gewerbliche Websites, journalistisch-redaktionelle Inhalte und Telemediendienste erforderlich.  
 
 Private, nicht-kommerzielle Websites brauchen meist kein Impressum.  
