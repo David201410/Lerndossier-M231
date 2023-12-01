@@ -3,4 +3,8 @@
 
 ## Aufgabe 1: Impressum in mehrere Sprachen übersetzen.
 - Deutsch (Synonym) : Erscheinungsvermerk
-- Englisch : 
+- Englisch : Imprint/Legal Notice
+- Französisch : Mentions légales
+- Italienisch : colophon/impronta
+- Spanisch : Aviso legal
+- Portugiesisch (Brasiilien) als Herkunftssprache : Informação legal
