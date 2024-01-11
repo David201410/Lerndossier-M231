@@ -48,7 +48,13 @@ Die inhaltlichen Anforderungen an das Impressum sind in Deutschland und der EU o
 
 ## Aufgabe 5: "Disclaimer" in mehrere Sprachen übersetzen.  
 - Deutsch : Haftungsausschluss
-- Englisch (Synonym) :
-- Französisch : 
-- Italienisch : 
-- Spanisch : 
+- Englisch (Synonym) : Waiver
+- Französisch : exclusion de responsabilité
+- Italienisch : diniego di responsabilità
+- Spanisch : descargo de responsabilidad
+
+## Aufgabe 6: Was bedeutet / was ist ein "Disclaimer" und warum macht man sowas bei einem Internetauftritt (Homepage, Website)?
+Da Webseiten-Eigentümer an das gebunden sind, was sie auf ihrer Webseite darstellen, ist es ratsam einen Disclaimer zu haben. Auf Deutsch heisst es Haftungsausschluss und das beschreibt die Bedeutung auch sehr gut. Mit einem Disclaimer können Betreiber sicherstellen, dass sie nicht dafür haften, wie andere mit deren Webseite umgehen. 
+
+## Aufgabe 7: Was bedeuten die drei Buchstaben "AGB" und was steht da so in Etwa drin? Machen Sie in 3-4 ausgeschriebenen Sätzen eine kleine selbstgeschriebene Zusammenfassung.
+Die drei Buchstaben stehen für (A)llgemeine (G)eschäfts-(B)edingungen. AGB's kommen zum Einsatz wenn Kunden mit der Webseite Transaktionen durchführen können. Darin wird beschrieben wie die Webseite ihre Regeln klarstellt. Ein Beispiel von Digitec: "Die Produkte und Preise im Onlineshop gelten als Angebot. Dieses Angebot steht jedoch immer unter der den Vertrag auflösenden Bedingung einer Lieferunmöglichkeit oder einer fehlerhaften Preisangabe." 
