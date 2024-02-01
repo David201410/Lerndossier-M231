@@ -29,7 +29,7 @@ Nun starte ich damit einen Passwortmanager auszusuchen. Dafür definiere ich als
 | Ablageort Datenbank | Schweizer Cloud | ╳ | Nur in der Cloud | ╳ | Beides möglich, lokal aber kompliziert | ✓ / ╳ |
 
 **Die Entscheidung fällt für mich auf:**
-![](/images/R.png)
+![](/images/bitwarden_logo.png)
 
 Anhand der verschiedenen Kriterien war die Entscheidung nicht ganz einfach. Ich bin jedoch ein Fan von Bitwarden's Benutzerfreundlichkeit.
 
