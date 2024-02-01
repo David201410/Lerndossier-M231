@@ -22,7 +22,7 @@ Nun starte ich damit einen Passwortmanager auszusuchen. Dafür definiere ich als
 
 |                | **SecureSafe** | **Wertung** | **lastpass** | **Wertung** | **Bitwarden** | **Wertung** |
 |----------------|-------------|---------------|-------------|---------------|-------------|---------------|
-| Link | [securesafe.com](https://www.securesafe.com) | |[1password.com](https://lastpass.com) | | [bitwarden.com](https://bitwarden.com) | |
+| Link | [securesafe.com](https://www.securesafe.com) | |[lastpass.com](https://lastpass.com) | | [bitwarden.com](https://bitwarden.com) | |
 | Verschlüsselung | AES256 | ✓ | AES256 | ✓ | AES256 | ✓ |
 | OpenSource | Nicht verfügbar | ╳ | Ist verfügbar | ✓ | Ist verfügbar | ✓ |  
 | Synchronisation | Ja ausser Linux | ✓ | Ja (Linux Add On) | ✓ | Ja | ✓ |
@@ -31,7 +31,7 @@ Nun starte ich damit einen Passwortmanager auszusuchen. Dafür definiere ich als
 **Die Entscheidung fällt für mich auf:**
 ![](/images/bitwarden_logo.png)
 
-Anhand der verschiedenen Kriterien war die Entscheidung nicht ganz einfach. Ich bin jedoch ein Fan von Bitwarden's Benutzerfreundlichkeit.
+Anhand der verschiedenen Kriterien war die Entscheidung nicht ganz einfach. Ich bin jedoch ein Fan von Bitwarden's Design und seinem Ruf.
 
 ## Passwortmanager einrichten
 - **Was werde ich tun, wenn ich mein Master-Passwort vergesse?** Ich muss in erster Linie dafür sorgen, dass das gar nicht erst passiert. Das Passwort an einem sicheren Ort speichern oder sich aufschreiben würde ich sagen.
