@@ -16,4 +16,4 @@ Mit diesen Informationen kann ich also den nächsten Schritt machen und mein Aus
 ## Fazit
 Ich fand diesen Auftrag spannend und habe gelernt wie so ein Schreiben für das Auskunftsrecht aussieht. Vielleicht werde ich sowas in Zukunft brauchen können. Ich bin aber froh, dass es diese Möglichkeit gibt, denn heutzutage werden so viel Daten wie noch nie, von einem persönlich gesammelt.
 
-Abkürzung zu meinem PDF: [Auskunftsrecht](LB3\david_Peter_auskunftsrecht_eigene_daten.pdf)
+Abkürzung zu meinem PDF: [Auskunftsrecht](david_Peter_auskunftsrecht_eigene_daten.pdf)
