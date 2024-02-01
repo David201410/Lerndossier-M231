@@ -20,12 +20,12 @@ Nun starte ich damit einen Passwortmanager auszusuchen. Dafür definiere ich als
 - **Anforderung Verschlüsselungsalgorithmus**: Der Manager sollte einen sicheren Algorithmus wie AE-256 oder ChaCha20 verwenden und nicht sowas wie MD-5.
 - **Anforderung Ablageort Datenbank**: Kann ich meine Daten Lokal und in der Cloud speichern?
 
-|           | **SecureSafe** | **Wertung** | **1Password** | **Wertung** | **Bitwarden** | **Wertung** |
-|-----------|----------------|-------------|---------------|-------------|---------------|-------------|
-| Link | [securesafe.com](https://www.securesafe.com) | |[1password.com](https://1password.com) | | [bitwarden.com](https://bitwarden.com) | |
+|                | **SecureSafe** | **Wertung** | **lastpass** | **Wertung** | **Bitwarden** | **Wertung** |
+|----------------|-------------|---------------|-------------|---------------|-------------|---------------|
+| Link | [securesafe.com](https://www.securesafe.com) | |[1password.com](https://lastpass.com) | | [bitwarden.com](https://bitwarden.com) | |
 | Verschlüsselung | AES256 | ✓ | AES256 | ✓ | AES256 | ✓ |
-| OpenSource | Nicht verfügbar | ╳ | Nicht verfügbar | ╳ | Ist verfügbar | ✓ |  
-| Synchronisation | Ja ausser Linux | ✓ | Ja | ✓ | Ja | ✓ |
+| OpenSource | Nicht verfügbar | ╳ | Ist verfügbar | ✓ | Ist verfügbar | ✓ |  
+| Synchronisation | Ja ausser Linux | ✓ | Ja (Linux Add On) | ✓ | Ja | ✓ |
 | Ablageort Datenbank | Schweizer Cloud | ╳ | Nur in der Cloud | ╳ | Beides möglich, lokal aber kompliziert | ✓ / ╳ |
 
 **Die Entscheidung fällt für mich auf:**
